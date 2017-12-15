@@ -1,3 +1,4 @@
+//Prints a perfect square
 public class Square {    
     public static boolean isSquare(int n) {        
        		if (n < 0) {

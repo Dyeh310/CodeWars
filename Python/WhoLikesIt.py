@@ -1,3 +1,4 @@
+#Emulates a like button depending on the amount of people used
 names = ['Alex', 'Jacob', 'Mark', 'Max']
 
 def likes(names):
